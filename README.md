@@ -24,3 +24,4 @@ Please refer to ASTGCN's Run and Test (https://github.com/guoshnBJTU/ASTGCN-r-py
 
 # Reference:
 Wang, Yi, and Di Zhu. "A Hypergraph-based Hybrid Graph Convolutional Network for Intracity Human Activity Intensity Prediction and Geographic Relationship Interpretation." Information Fusion (2023): 102149.
+https://doi.org/10.1016/j.inffus.2023.102149
